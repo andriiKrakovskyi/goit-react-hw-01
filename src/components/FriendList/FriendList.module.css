@@ -1,0 +1,13 @@
+.friendList_section {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.friendList_list {
+  display: flex;
+  gap: 7px;
+  justify-content: space-around;
+  align-items: center;
+}
